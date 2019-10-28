@@ -1,0 +1,7 @@
+c:\users\jokk\source\repos\CounterStrike\CounterStrike\bin\Debug\CounterStrike.exe.config
+c:\users\jokk\source\repos\CounterStrike\CounterStrike\bin\Debug\CounterStrike.exe
+c:\users\jokk\source\repos\CounterStrike\CounterStrike\bin\Debug\CounterStrike.pdb
+c:\users\jokk\source\repos\CounterStrike\CounterStrike\obj\Debug\CounterStrike.csprojResolveAssemblyReference.cache
+c:\users\jokk\source\repos\CounterStrike\CounterStrike\obj\Debug\CounterStrike.csproj.CoreCompileInputs.cache
+c:\users\jokk\source\repos\CounterStrike\CounterStrike\obj\Debug\CounterStrike.exe
+c:\users\jokk\source\repos\CounterStrike\CounterStrike\obj\Debug\CounterStrike.pdb
